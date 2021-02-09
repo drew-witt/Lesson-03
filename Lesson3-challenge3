@@ -1,0 +1,6 @@
+
+let faveToys = ['Buzz', 'Woody', 'Mr. Potato Head', 'Rex', 'RC', 'Jessie'];
+
+for (let i = 0; i < faveToys.length; i++) {
+  console.log(i, faveToys[i]);
+  }
